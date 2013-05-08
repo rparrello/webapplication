@@ -1,6 +1,6 @@
-# Upload files with jQuery File Upload and Paperclip
+# Web Application Master
 
-This is an example app that uses the following gems to upload files for your Rails application:
+This is an  app that uses the following gems to upload files for your Rails application:
 
 * [jquery-fileupload-rails](https://github.com/tors/jquery-fileupload-rails)
 * [Paperclip](https://github.com/thoughtbot/paperclip)
@@ -20,3 +20,5 @@ Open http:://localhost:3000
 ## License
 The Unlicense (i.e Public Domain)
 
+User = admin
+Password = prova
