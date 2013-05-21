@@ -1,10 +1,7 @@
 class UploadsController < ApplicationController
   # GET /uploads
   # GET /uploads.json
-  def authenticate
-
-  http_basic_authenticate_with :name => "admin", :password => "prova"
-end 
+  
 
   def index
     @uploads = Upload.all
