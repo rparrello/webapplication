@@ -14,9 +14,11 @@ This app uses Rails 3.2.13.
     rake db:create
     rake db:migrate
     rails server
-User = admin
-Password = prova
+
+
 Open http:://localhost:3000
+
+Before is essential sig_up... and register
 
 ## License
 The Unlicense (i.e Public Domain)
